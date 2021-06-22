@@ -28,4 +28,4 @@ all currently installed plugins.
 
 ## License
 
-Released under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+Released under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html)..
